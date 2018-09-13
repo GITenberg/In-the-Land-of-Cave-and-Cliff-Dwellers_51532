@@ -1,0 +1,31 @@
+_repo: In-the-Land-of-Cave-and-Cliff-Dwellers_51532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schwatka, Frederick
+    aliases:
+    - Schwatka, F. (Frederick)
+    - Schwatka, Fred
+    - Schwatka, Lieutenant (Frederick)
+    birthdate: 1849
+    deathdate: 1892
+    gutenberg_agent_id: '38273'
+    url: http://www.gutenberg.org/2009/agents/38273
+description: ''
+gutenberg_issued: '2016-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51532'
+  lccn: '02017540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sonora (Mexico : State) -- Description and travel'
+- !lcc 'F1201'
+- !lcsh 'Chihuahua (Mexico : State) -- Description and travel'
+- !lcsh 'Tarahumara Indians'
+- GITenberg
+title: In the Land of Cave and Cliff Dwellers
+url: http://www.gutenberg.org/ebooks/51532
